@@ -1,5 +1,4 @@
 # Action Recognition with VideoMAE Transformer on UCF101 Subset  
-**By Aryan S. Bhardwaj**
 
 ## 📌 Project Overview  
 This repository showcases a complete video action recognition pipeline using the **VideoMAE Transformer** model from Hugging Face, trained and tested on a curated subset of the **UCF101** dataset. The goal is to classify human activities based on video clips using a self-supervised, transformer-based approach.
@@ -96,4 +95,4 @@ This project includes inference on real YouTube videos using the trained model. 
 ## 👤 Author  
 Aryan S. Bhardwaj  
 _Deep Learning | Computer Vision | Transformers_  
-📫 [Connect on LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/aryanb03/)) (replace with actual link)  
+📫 [Connect on LinkedIn](https://www.linkedin.com) (https://www.linkedin.com/in/aryanb03/)
