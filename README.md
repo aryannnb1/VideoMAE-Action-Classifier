@@ -78,7 +78,14 @@ Pretrained weights from Hugging Face are used and fine-tuned on the selected dat
 
 ## 📂 Repository Structure
 
-├── AryanB_BigVision.ipynb # Full training + evaluation notebook ├── /data/ │ ├── train/ │ ├── val/ │ └── test/ ├── /outputs/ │ └── best_model.pt # Trained model checkpoint (see Drive link) ├──
+├── AryanB_BigVision.ipynb # Full training + evaluation notebook 
+├── /data/ 
+│ ├── train/ 
+│ ├── val/ 
+│ └── test/ 
+├── /outputs/ 
+│ └── best_model.pt # Trained model checkpoint (see Drive link) 
+├── README.md
 
 
 ---
