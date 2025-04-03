@@ -69,7 +69,6 @@ Pretrained weights from Hugging Face are used and fine-tuned on the selected dat
 | `torchvision` | Image transformations |
 | `cv2` | Frame extraction from videos |
 | `yt_dlp` | Downloading YouTube videos for real-world testing |
-| `imbalanced-learn` | Resampling strategies (SMOTE/oversampling) |
 | `matplotlib`, `seaborn` | Evaluation visualization |
 | `scikit-learn` | Classification metrics (precision, recall, F1) |
 
